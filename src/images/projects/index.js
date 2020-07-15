@@ -1,0 +1,11 @@
+export const javascript = require('./javascript.png');
+export const html = require('./html.png');
+export const css = require('./css.png');
+export const django = require('./django.png');
+export const mysql = require('./mysql.png');
+export const nodejs = require('./nodejs.png');
+export const reactlogo = require('./react.png');
+export const python = require('./python.png');
+export const unity = require('./unity.png');
+export const illustrator = require('./illustrator.png');
+export const photoshop = require('./photoshop.png');

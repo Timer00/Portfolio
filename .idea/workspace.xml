@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b5b4971-2a66-4e6c-92d0-f3c9a27c1b2b" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="my-app" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lineW</find>
+      <find>class</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/App.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1UlZ0pTZUgCK4NmXHBdATdKBDY5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Koji/Master Archer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Emprego\myCompany\Portfolio\website\my-app\src\components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b5b4971-2a66-4e6c-92d0-f3c9a27c1b2b" name="Default" comment="" />
+      <created>1568668299048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568668299048</updated>
+      <workItem from="1568668300232" duration="7750000" />
+      <workItem from="1568791584436" duration="3094000" />
+      <workItem from="1569160620829" duration="14021000" />
+      <workItem from="1569523164167" duration="5980000" />
+      <workItem from="1569753004980" duration="16778000" />
+      <workItem from="1570309528881" duration="8529000" />
+      <workItem from="1570456021828" duration="697000" />
+      <workItem from="1570557206103" duration="6413000" />
+      <workItem from="1570649064544" duration="600000" />
+      <workItem from="1570681576621" duration="2983000" />
+      <workItem from="1570687177837" duration="1883000" />
+      <workItem from="1571683298358" duration="2672000" />
+      <workItem from="1571821473626" duration="11808000" />
+      <workItem from="1571858962703" duration="4079000" />
+      <workItem from="1571904478643" duration="1846000" />
+      <workItem from="1572203916865" duration="1258000" />
+      <workItem from="1572375340765" duration="830000" />
+      <workItem from="1572798283163" duration="1147000" />
+      <workItem from="1572800219728" duration="1300000" />
+      <workItem from="1574111792650" duration="625000" />
+      <workItem from="1575320527205" duration="2471000" />
+      <workItem from="1575927227187" duration="12000" />
+      <workItem from="1575932923838" duration="1619000" />
+      <workItem from="1576058871891" duration="1734000" />
+      <workItem from="1576140434073" duration="257000" />
+      <workItem from="1576146829599" duration="3108000" />
+      <workItem from="1576872255791" duration="3136000" />
+      <workItem from="1580734410007" duration="56000" />
+      <workItem from="1584384231363" duration="610000" />
+      <workItem from="1585775064441" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1585775307350">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585775307350" />
+    <state x="631" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1585775068384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="631" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585775068384" />
+  </component>
+</project>

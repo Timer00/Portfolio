@@ -4,6 +4,10 @@ html, body, #root {
   background-color: black;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .container {
   display: flex;
   width: 100%;
@@ -112,6 +116,34 @@ html, body, #root {
   transition: all 1s ease;
 }
 
+.content {
+  overflow: hidden;
+  height: 0;
+  width: 100%;
+  opacity: 0;
+  text-align: left;
+  float: left;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+  flex-direction: column;
+
+  transition: all 1s ease;
+}
+
+.subdivision {
+  flex: 1;
+
+  background-color: aquamarine;
+
+  border: black 0px solid;
+
+  transition: all 0.8s ease;
+  transition-delay: 1s;
+}
+
 .red { background-color: red }
 
 .blue { background-color: #1e57ff }
@@ -155,18 +187,6 @@ html, body, #root {
   margin-left: 2%;
 }
 
-.content {
-  overflow: hidden;
-  height: 0;
-  width: 90%;
-  margin-left: 5%;
-  opacity: 0;
-  text-align: left;
-  float: left;
-
-  transition: all 1s ease;
-}
-
 .titleEnd {
   position: absolute;
   overflow: hidden;
@@ -188,7 +208,11 @@ html, body, #root {
 }
 
 .fadeIn {
-  height: 75%;
+  height: 100%;
   opacity: 1;
+}
+
+.border {
+  border: black 8px solid;
 }
 
